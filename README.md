@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Wolesword/Wolesword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data scientist/Machine learning Engineer with a background in Mechatronics Engineering. I am interested in strategic data analytics, business intelligence, process management and using analytics to uncover actionable insights for the market.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on web scraping/predictive projects using Deep Learning in Python/TensorFlow
+- 🌱 I’m currently learning JAVA
+- 👯 I’m looking to collaborate on GCP or AWS
+- 🤔 I’m looking forward to working with you on real-life projects
+- 💬 Ask me about about Mechatronics Engineering, Manufacturing and Industry 4.0.
+- 📫 My portfolio and personal site: Coming Soon!
+- 😄 My Alias: ### Wolesword ###, my word is my bond!
+- ⚡ Fun fact: I love Anime and cars.
+
+``` python
+  def relevant_skills(Wole):
+    skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'ML_DL': 'Intermidiate', 'HTML & CSS': 'Intermediate', 'JAVA': 'Intermediate'}
+    tools = ['TensorFlow', 'numpy', 'pandas', 'sklearn', 'Alteryx', 'matplotlib', 'PowerBI', 'tableau']
+  return 
+```
+<!--
+**Wolesword/Wolesword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
