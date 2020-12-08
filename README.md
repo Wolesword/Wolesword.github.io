@@ -13,7 +13,7 @@ I am a Data scientist/Machine learning Engineer with a background in Mechatronic
 
 ``` python
 def relevant_skills(Wole):
-    skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'ML': 'Advance', 'HTML & CSS': 'Intermediate'}
+    skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'ML': 'Advanced', 'HTML & CSS': 'Intermediate'}
     tools = ['TensorFlow', 'numpy', 'pandas', 'sklearn', 'Alteryx', 'matplotlib', 'PowerBI', 'tableau']
 return 
 ```
