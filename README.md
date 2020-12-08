@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ``` python
   def relevant_skills(Wole):
-    skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'ML_DL': 'Intermidiate', 'HTML & CSS': 'Intermediate', 'JAVA': 'Intermediate'}
+    skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'ML_DL': 'Intermidiate', 'HTML & CSS': 'Intermediate'}
     tools = ['TensorFlow', 'numpy', 'pandas', 'sklearn', 'Alteryx', 'matplotlib', 'PowerBI', 'tableau']
   return 
 ```
