@@ -2,8 +2,6 @@
 
 I am a Data scientist/Machine learning Engineer with a background in Mechatronics Engineering. I am interested in strategic data analytics, business intelligence, process management and using analytics to uncover actionable insights for the market.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on web scraping/predictive projects using Deep Learning in Python/TensorFlow
 - 🌱 I’m currently learning JAVA
 - 👯 I’m looking to collaborate on GCP or AWS
