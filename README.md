@@ -12,7 +12,7 @@ I am a Data scientist/Machine learning Engineer with a background in Mechatronic
 - ⚡ Fun fact: I love Anime and cars.
 
 ``` python
-def relevant_skills(Tosin):
+def relevant_skills(Wole):
     skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'ML': 'Advance', 'HTML & CSS': 'Intermediate'}
     tools = ['TensorFlow', 'numpy', 'pandas', 'sklearn', 'Alteryx', 'matplotlib', 'PowerBI', 'tableau']
 return 
