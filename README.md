@@ -12,10 +12,10 @@ I am a Data scientist/Machine learning Engineer with a background in Mechatronic
 - ⚡ Fun fact: I love Anime and cars.
 
 ``` python
-  def relevant_skills(Wole):
-    skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'ML_DL': 'Intermidiate', 'HTML & CSS': 'Intermediate'}
+def relevant_skills(Tosin):
+    skills_with_proficiency = {'Python': 'Advanced', 'SQL': 'Intermidiate', 'ML': 'Advance', 'HTML & CSS': 'Intermediate'}
     tools = ['TensorFlow', 'numpy', 'pandas', 'sklearn', 'Alteryx', 'matplotlib', 'PowerBI', 'tableau']
-  return 
+return 
 ```
 <!--
 **Wolesword/Wolesword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
