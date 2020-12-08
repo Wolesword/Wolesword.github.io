@@ -8,7 +8,7 @@ I am a Data scientist/Machine learning Engineer with a background in Mechatronic
 - 🤔 I’m looking forward to working with you on real-life projects
 - 💬 Ask me about about Mechatronics Engineering, Manufacturing and Industry 4.0.
 - 📫 My portfolio and personal site: Coming Soon!
-- 😄 My Alias: ### Wolesword ###, my word is my bond!
+- 😄 My Alias: # Wolesword #, my word is my bond!
 - ⚡ Fun fact: I love Anime and cars.
 
 ``` python
